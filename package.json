@@ -9,8 +9,8 @@
     "proxy",
     "tunnel"
   ],
-  "homepage": "https://github.com/koichik/node-tunnel/",
-  "bugs": "https://github.com/koichik/node-tunnel/issues",
+  "homepage": "https://github.com/nemanjan00/node-tunnel/",
+  "bugs": "https://github.com/nemanjan00/node-tunnel/issues",
   "license": "MIT",
   "author": "Koichi Kobayashi <koichik@improvement.jp>",
   "main": "./index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/koichik/node-tunnel.git"
+    "url": "https://github.com/nemanjan00/node-tunnel.git"
   },
   "scripts": {
     "test": "mocha"
@@ -32,7 +32,6 @@
     "node": ">=0.6.11 <=0.7.0 || >=0.7.3"
   },
   "dependencies": {
-    "set-cookie-parser": "^2.4.8",
     "tough-cookie": "^4.0.0"
   }
 }
