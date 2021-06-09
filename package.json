@@ -1,5 +1,5 @@
 {
-  "name": "tunnel",
+  "name": "tunnel-cookie",
   "version": "0.0.6",
   "description": "Node HTTP/HTTPS Agents for tunneling proxies",
   "keywords": [
@@ -30,5 +30,9 @@
   },
   "engines": {
     "node": ">=0.6.11 <=0.7.0 || >=0.7.3"
+  },
+  "dependencies": {
+    "set-cookie-parser": "^2.4.8",
+    "tough-cookie": "^4.0.0"
   }
 }
